@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning web development
 - ⚡ Fun fact: I'm very forgetful 😅
 
-**Top Languages Card: **
+**Top Languages Card:**
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanPMa&layout=compact)](https://github.com/IvanPMa/github-readme-stats)
 
 
@@ -26,7 +26,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png"></code>
 
-### Reach me 📫 
+**Reach me 📫**
 > Social
 <p align="center">
   <a href="https://www.facebook.com/ivan.pm.3726/" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/-Iv%C3%A1n-4267b2?style=for-the-badge&logo=Facebook&logoColor=white"></a>
