@@ -1,5 +1,8 @@
 ### Hi there 👋 I'm [Iván P. Maldonado](https://www.linkedin.com/in/iv%C3%A1n-pacheco-maldonado-94b307195/)
 > Software Engineering Student at [UAEMéx](https://www.uaemex.mx/)
+
+[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=IvanPMa&show_icons=true"/>](https://github.com/IvanPMa/)
+
 - 🌱 I’m currently learning web development
 - 😄 Pronouns: Vancci, Spanky
 - ⚡ Fun fact: I'm very forgetful 😅
@@ -7,7 +10,7 @@
 ### Top Languages Card
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanPMa&layout=compact)](https://github.com/IvanPMa/github-readme-stats)
 
-### Github Stats
+
 <!--Agregar contribuciones privadas al total de commits contados al GithubStats
 ![IvanPMa's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanPMa&count_private=true&theme=dracula)-->
 
