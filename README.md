@@ -10,3 +10,11 @@
 
 
 ![IvanPMa's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanPMa&show_icons=true&theme=radical)
+
+<a href="https://github.com/IvanPMa/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IvanPMa&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/IvanPMa/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IvanPMa&repo=convoychat" />
+</a>
+
