@@ -1,9 +1,4 @@
 ### Hi there 👋
-
-
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on improve my skills 🤓
 - 🌱 I’m currently learning web development
 - 🤔 I’m looking for help with JavaScript, TypeScript,Functional programming
@@ -12,3 +7,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Vancci, Spanky
 - ⚡ Fun fact: I'm very forgetful 😅
 
+[![Ivan GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanPMa)](https://github.com/IvanPMa/github-readme-stats)
