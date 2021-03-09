@@ -19,9 +19,9 @@
 ### Reach me 📫 
 
 <p align="center">
-<a href="https://www.linkedin.com/in/ivanpma/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@ivanpma-blue?style=flat&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/ivanpma/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@ivanpma-blue?style=for-the-badge&logo=linkedin"></a>
 <a href="https://twitter.com/vanccipm" target="_blank"><img alt="Twitter" src="https://img.shields.io/twitter/follow/vanccipm?style=for-the-badge"></a>
 <a href="https://www.instagram.com/pmal_ivan_/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-@pmal_ivan_-e43182?style=for-the-badge&logo=instagram"></a>
-<a href="mailto:pachecomaldonadoivan@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-pachecomaldonadoivan@gmail.com-blue?style=flat&logo=gmail"></a>
+<a href="mailto:pachecomaldonadoivan@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-pachecomaldonadoivan@gmail.com-blue?style=for-the-badge&logo=gmail"></a>
 
 </p>
