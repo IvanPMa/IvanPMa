@@ -31,7 +31,7 @@
 
 > Mail
 <p align="center">
-<a href="mailto:pachecomaldonadoivan@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-pachecomaldonadoivan@gmail.com-red?style=for-the-badge&logo=Gmail&logoColor=white"></a>
+[![Gmail Badge](https://img.shields.io/badge/-pachecomaldonadoivan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pachecomaldonadoivan@gmail.com)](mailto:pachecomaldonadoivan@gmail.com)
 </p>
 
 
