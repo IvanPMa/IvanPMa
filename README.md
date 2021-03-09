@@ -7,4 +7,4 @@
 - 😄 Pronouns: Vancci, Spanky
 - ⚡ Fun fact: I'm very forgetful 😅
 
-[![Ivan GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanPMa)](https://github.com/IvanPMa/github-readme-stats)
+![IvanPMa's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanPMa&show_icons=true&theme=radical)
