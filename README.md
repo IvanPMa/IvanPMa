@@ -3,7 +3,6 @@
 > Software Engineering Student at [UAEMéx](https://www.uaemex.mx/)
 
 - 🌱 I’m currently learning web development
-- 😄 Pronouns: Vancci, Spanky
 - ⚡ Fun fact: I'm very forgetful 😅
 
 ### Top Languages Card
