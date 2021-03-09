@@ -7,10 +7,11 @@
 - 😄 Pronouns: Vancci, Spanky
 - ⚡ Fun fact: I'm very forgetful 😅
 
+### Top Languajes Card
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanPMa&layout=compact)](https://github.com/IvanPMa/github-readme-stats)
 
+### Github Stats
 <!--Agregar contribuciones privadas al total de commits contados-->
-
 ![IvanPMa's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanPMa&count_private=true&theme=radical)
 
 
