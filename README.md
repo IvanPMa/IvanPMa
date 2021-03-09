@@ -8,8 +8,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanPMa&layout=compact)](https://github.com/IvanPMa/github-readme-stats)
 
 ### Github Stats
-<!--Agregar contribuciones privadas al total de commits contados al GithubStats-->
-![IvanPMa's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanPMa&count_private=true&theme=dracula)
+<!--Agregar contribuciones privadas al total de commits contados al GithubStats
+![IvanPMa's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanPMa&count_private=true&theme=dracula)-->
 
 ### Tools & Languajes 🛠️
 
