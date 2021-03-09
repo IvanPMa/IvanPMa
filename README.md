@@ -12,6 +12,6 @@
 
 ### Github Stats
 <!--Agregar contribuciones privadas al total de commits contados-->
-![IvanPMa's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanPMa&count_private=true&theme=gradient)
+![IvanPMa's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanPMa&count_private=true&theme=dracula)
 
 
