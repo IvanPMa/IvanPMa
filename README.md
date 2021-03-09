@@ -9,12 +9,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanPMa&layout=compact)](https://github.com/IvanPMa/github-readme-stats)
 
-
-![IvanPMa's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanPMa&show_icons=true&theme=radical)
-
-
 <!--Agregar contribuciones privadas al total de commits contados-->
 
-![IvanPMa's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanPMa&count_private=true)
+![IvanPMa's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanPMa&count_private=true&theme=radical)
 
 
