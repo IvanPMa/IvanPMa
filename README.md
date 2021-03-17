@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I'm very forgetful 😅
 
 **Top Languages Card:**
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanPMa&langs_count=9)](https://github.com/IvanPMa/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanPMa&langs_count=9&layout=compact&hide=Hack)](https://github.com/IvanPMa/github-readme-stats)
 
 
 <!--Agregar contribuciones privadas al total de commits contados al GithubStats
