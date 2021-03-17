@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm [Iván P. Maldonado](https://www.linkedin.com/in/iv%C3%A1n-pacheco-maldonado-94b307195/)
-[<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanPMa&langs_count=8"/>](https://github.com/IvanPMa/github-readme-stats)
+[<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanPMa&langs_count=9"/>](https://github.com/IvanPMa/github-readme-stats)
 > Software Engineering Student at [UAEMéx](https://www.uaemex.mx/)
 
 - 🌱 I’m currently learning web development
