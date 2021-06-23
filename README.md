@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm [Iván P. Maldonado](https://ivanpm.tech/)
 [<img align="right" src="https://github-readme-stats.vercel.app/api?username=IvanPMa&show_icons=true"/>](https://github.com/IvanPMa/)
 
-> Computer Engineering Student at [UAEMéx](https://www.uaemex.mx/)
+> Computer Science Engineering Student at [UAEMéx](https://www.uaemex.mx/)
 
 - 🌱 I’m currently learning web development
 - ⚡ Fun fact: I'm very forgetful 😅
