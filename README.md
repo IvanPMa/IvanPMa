@@ -6,9 +6,12 @@
 
 [<img align="left" src="https://github-readme-stats.vercel.app/api?username=IvanPMa&show_icons=true"/>](https://github.com/IvanPMa/)
 
+<p align= "left">
+
 **Top Languages Card:**
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanPMa&langs_count=9&layout=compact&hide=Hack)](https://github.com/IvanPMa/github-readme-stats)
 
+</p>
 
 
 
