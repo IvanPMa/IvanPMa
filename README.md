@@ -5,6 +5,7 @@
 - ⚡ Fun fact: I'm very forgetful 😅
 
 [<img align="right" src="https://github-readme-stats.vercel.app/api?username=IvanPMa&show_icons=true"/>](https://github.com/IvanPMa/)
+<br />
 
 
 **Top Languages Card:**
