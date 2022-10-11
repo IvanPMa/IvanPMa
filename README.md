@@ -1,12 +1,14 @@
 ### Hi there 👋 I'm [Iván P. Maldonado](https://www.linkedin.com/in/ivanpma/)
 [<img align="right" src="https://github-readme-stats.vercel.app/api?username=IvanPMa&show_icons=true"/>](https://github.com/IvanPMa/)
 
-> Computer Science Engineering Student at [UAEMéx](https://www.uaemex.mx/)
+**Top Languages Card:**
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanPMa&langs_count=9&layout=compact&hide=Hack)](https://github.com/IvanPMa/github-readme-stats)
+
+> Computer Science Engineering at [UAEMéx](https://www.uaemex.mx/)
 
 - ⚡ Fun fact: I'm very forgetful 😅
 
-**Top Languages Card:**
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanPMa&langs_count=9&layout=compact&hide=Hack)](https://github.com/IvanPMa/github-readme-stats)
+
 
 
 <!--Agregar contribuciones privadas al total de commits contados al GithubStats
